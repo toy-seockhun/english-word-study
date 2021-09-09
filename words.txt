@@ -1,0 +1,4 @@
+hello/안녕하다
+use/사용하다
+specify/v.조사하다
+study/v.공부하다
